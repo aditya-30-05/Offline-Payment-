@@ -1,1 +1,1 @@
-# Offline-Payment-
+OfflinePay AI – Secure Offline Digital Payments
