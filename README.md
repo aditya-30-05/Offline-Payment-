@@ -161,4 +161,3 @@ OfflinePay-AI/
 
 ## 📄 License
 
-This project is developed for educational, research, and hackathon purposes.
