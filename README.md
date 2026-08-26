@@ -8,6 +8,7 @@ OfflinePay AI is a secure digital payment system that enables users to send and 
 
 The project aims to provide reliable digital payments in areas with poor or no network connectivity, making it suitable for rural regions, disaster recovery, underground transport systems, and remote locations.
 
+
 ---
 
 ## ✨ Features
